@@ -1,1 +1,1 @@
-Cyberdefender.org notes/walkthrough
+Random code snippets
